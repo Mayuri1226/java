@@ -1,4 +1,4 @@
-/*Srushti Jadhav
+/*Mayuri Patil
   Write a program to create user defined exception to display the given no is 
   prime or not use try catch finally throw and throws*/
 
